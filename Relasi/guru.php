@@ -11,7 +11,7 @@
   
 </head>  
   
-<body class="min-vh-100 d-flex align-items-center">  
+<body class="min-vh-100 d-flex align-items-center bg-dark ">  
     <div class="card w-50 m-auto p-3">  
         <h3 class="text-center">GURU</h3>  
         <table class="table table-striped">  
